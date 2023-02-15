@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "878674868766",
+    "project_id": "vehicle-demo-324ea",
+    "storage_bucket": "vehicle-demo-324ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878674868766:android:9df44b57c510e58fdfcc0f",
+        "android_client_info": {
+          "package_name": "com.kia.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878674868766-t1gk9gd77g4kbodct9k99njfu5i969cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyssTt5QmQP4Y1xnXGgQnLFAQ1qGHENk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878674868766-t1gk9gd77g4kbodct9k99njfu5i969cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878674868766:android:62c7e0f33d57bce6dfcc0f",
+        "android_client_info": {
+          "package_name": "com.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878674868766-t1gk9gd77g4kbodct9k99njfu5i969cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhyssTt5QmQP4Y1xnXGgQnLFAQ1qGHENk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878674868766-t1gk9gd77g4kbodct9k99njfu5i969cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

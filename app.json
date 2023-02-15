@@ -1,0 +1,7 @@
+{
+  "name": "template",
+  "displayName": "template",
+  "expo": {
+    "scheme": "myapp"
+  }
+}
